@@ -52,16 +52,19 @@ Communications- counterpart type draft_url sent_on thread_id
 - **Cloud-ready:** works locally; deployable to Cloud Run / Vertex AI (optional)
 
 ---
+## Code
+Code is available in the input_agent.7z file, please go ahead and download and extract it to look at the code
+
 
 ## Architecture
 
 ### Component Diagram
-![GovFlow flow1](assets/screenshots/flow1.png)
+![GovFlow flow1](./flow1.png)
 
 ---
 
 ## Results
-![GovFlow result1](assets/screenshots/result1.png)
-![GovFlow result2](assets/screenshots/result2.png)
-![GovFlow result3](assets/screenshots/result3.png)
-![GovFlow result4](assets/screenshots/result4.png)
+![GovFlow result1](./result1.png)
+![GovFlow result2](./result2.png)
+![GovFlow result3](./result3.png)
+![GovFlow result4](./result4.png)
