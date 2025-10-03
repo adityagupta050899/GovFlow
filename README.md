@@ -56,12 +56,12 @@ Communications- counterpart type draft_url sent_on thread_id
 ## Architecture
 
 ### Component Diagram
-![GovFlow](assets/screenshots/flow1.png)
+![GovFlow flow1](assets/screenshots/flow1.png)
 
 ---
 
 ## Results
-![GovFlow](assets/screenshots/result1.png)
-![GovFlow](assets/screenshots/result2.png)
-![GovFlow](assets/screenshots/result3.png)
-![GovFlow](assets/screenshots/result4.png)
+![GovFlow result1](assets/screenshots/result1.png)
+![GovFlow result2](assets/screenshots/result2.png)
+![GovFlow result3](assets/screenshots/result3.png)
+![GovFlow result4](assets/screenshots/result4.png)
